@@ -27,7 +27,7 @@ slowMode:
 - /zchatguard (zcg) removeads ⭢ zchatguard.admin
 - /zchatguard (zcg) adslist ⭢ zchatguard.admin
 
-  Bypass Permissions
+## Bypass Permissions
 
 - zchatguard.bypass.mute ⭢ Users or user groups with this authority are not affected by mute.
 - zchatguard.bypass.swears ⭢ Users or user groups with this authority will not be blocked by swears.
