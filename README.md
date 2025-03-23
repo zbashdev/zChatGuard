@@ -37,7 +37,7 @@ https://github.com/zbashdev/zChatGuard/releases
 ## 🌐 For Contact and Support
 
 www.zbash.com.tr
-https://discord.gg/PMy9szcsbx
+https://discord.gg/ZUqGQ8ezBM
 
 
 
