@@ -2,9 +2,7 @@
 
 ## 🚀 Settings that can be made via Config
 
-slowMode:
-  enabled: true
-  seconds: 5
+- slowMode
 
 ## 🚀 Commands / Perms
 
