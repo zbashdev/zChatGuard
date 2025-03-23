@@ -8,14 +8,17 @@
 
 - /zchatguard (zcg) reload ⭢ zchatguard.admin
 
+
 - /zchatguard (zcg) ban ⭢ zchatguard.perm.ban
 - /zchatguard (zcg) unban ⭢ zchatguard.perm.unban
 - /zchatguard (zcg) mute ⭢ zchatguard.perm.mute
 - /zchatguard (zcg) unmute ⭢ zchatguard.perm.unmute
+
   
 - /zchatguard (zcg) addswear ⭢ zchatguard.admin
 - /zchatguard (zcg) removeswear ⭢ zchatguard.admin
 - /zchatguard (zcg) swearlist ⭢ zchatguard.admin
+
 
 - /zchatguard (zcg) addads ⭢ zchatguard.admin
 - /zchatguard (zcg) removeads ⭢ zchatguard.admin
