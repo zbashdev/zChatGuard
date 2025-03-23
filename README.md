@@ -1,0 +1,50 @@
+✅ zChatGuard is a great tool for basic administration of your Minecraft server. It also includes Mute/Ban/Slow Mode and automatic swear and ad blocking systems. Malicious users cannot advertise or swear even when you are not active on the server.
+
+## 🚀 Config
+
+lang: en
+prefix: "&#FB0812z&#FB0C16C&#FC0F19h&#FC131Da&#FD1720t&#FD1A24G&#FE1E27u&#FE222Ba&#FF252Er&#FF2932d &8» &7"
+debug: true
+
+slowMode:
+  enabled: true
+  seconds: 5
+
+## 🚀 Commands / Perms
+
+- /zchatguard (zcg) reload ⭢ zchatguard.admin
+
+- /zchatguard (zcg) ban ⭢ zchatguard.perm.ban
+- /zchatguard (zcg) unban ⭢ zchatguard.perm.unban
+- /zchatguard (zcg) mute ⭢ zchatguard.perm.mute
+- /zchatguard (zcg) unmute ⭢ zchatguard.perm.unmute
+  
+- /zchatguard (zcg) addswear ⭢ zchatguard.admin
+- /zchatguard (zcg) removeswear ⭢ zchatguard.admin
+- /zchatguard (zcg) swearlist ⭢ zchatguard.admin
+
+- /zchatguard (zcg) addads ⭢ zchatguard.admin
+- /zchatguard (zcg) removeads ⭢ zchatguard.admin
+- /zchatguard (zcg) adslist ⭢ zchatguard.admin
+
+  Bypass Permissions
+
+- zchatguard.bypass.mute ⭢ Users or user groups with this authority are not affected by mute.
+- zchatguard.bypass.swears ⭢ Users or user groups with this authority will not be blocked by swears.
+- zchatguard.bypass.ads ⭢ Users or user groups with this authority will not be blocked by ads.
+
+## 📁 Download 
+
+https://github.com/zbashdev/zChatGuard/releases
+
+## 🌐 For Contact and Support
+
+www.zbash.com.tr
+https://discord.gg/PMy9szcsbx
+
+
+
+
+
+
+
