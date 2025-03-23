@@ -1,4 +1,4 @@
-https://youtu.be/kD4E-toRo2M
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kD4E-toRo2M?si=IBofBWQcFqsAWdhS&amp;controls=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ✅ zChatGuard is a great tool for basic administration of your Minecraft server. It also includes Mute/Ban/Slow Mode and automatic swear and ad blocking systems. Malicious users cannot advertise or swear even when you are not active on the server.
 
